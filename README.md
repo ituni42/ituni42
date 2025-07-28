@@ -1,3 +1,10 @@
+# Welcome to my GitHub
+
+## 🚀 About Me
+
+I’m an undergraduate Computer Science student at the Faculty of Technical Sciences, Novi Sad. I’m passionate about data science—exploring how data and algorithms can solve real-world problems. I also enjoy web development and experimenting with new technologies. I completed an internship focused on game development, where I worked on two projects using Unity.
+
+---
 
 ## 🧠 Data Science Enthusiast
 
@@ -20,12 +27,6 @@
   Modern React web app for browsing and searching movies and TV shows using the TMDb API.
 - **[Serial-Two-Joint-Robot-Manipulator-Simulation-and-Control](https://github.com/ituni42/Serial-Two-Joint-Robot-Manipulator-Simulation-and-Control):**
   Real-time control and simulation for a two-joint robotic manipulator with advanced control strategies.
-
----
-
-## 🚀 About Me
-
-I’m an undergraduate Computer Science student at the Faculty of Technical Sciences, Novi Sad. I’m passionate about data science—exploring how data and algorithms can solve real-world problems. I also enjoy web development and experimenting with new technologies. I completed an internship focused on game development, where I worked on two projects using Unity.
 
 ---
 
@@ -56,15 +57,28 @@ I’m an undergraduate Computer Science student at the Faculty of Technical Scie
 
 ## 📫 Contact
 
-<a href="https://github.com/ituni42" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.gif" alt="GitHub" width="40" height="40"/>
-</a>
-<a href="https://www.linkedin.com/in/ilijatokicc/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linkedin.gif" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="mailto:tokicilija@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.gif" alt="Email" width="40" height="40"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/ituni42" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36" height="36"/><br/>
+        <b>GitHub</b>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/ilijatokicc/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36"/><br/>
+        <b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="mailto:tokicilija@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="36" height="36"/><br/>
+        <b>Email</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
