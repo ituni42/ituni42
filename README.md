@@ -18,6 +18,8 @@ I’m an undergraduate Computer Science student at the Faculty of Technical Scie
     - Combines data science, healthcare, and practical machine learning.
   - **[Facial Expression Recognition](https://github.com/ituni42/facial-expression-recognition):**
     - Deep learning project for facial emotion recognition, supporting five emotion classes: Angry, Happy, Neutral, Sad, and Surprise. Uses transfer learning with MobileNet and data augmentation for robust results.
+  - **[Superstore Sales Data Science EDA](https://github.com/ituni42/superstore-sales-data-science-eda):**
+    - Exploratory Data Analysis (EDA) of the Superstore sales dataset: data cleaning, customer segmentation, product and geographic insights, and sales trend visualizations using Python.
 
 ---
 
